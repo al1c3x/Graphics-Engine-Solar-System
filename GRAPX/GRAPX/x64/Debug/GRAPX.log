@@ -1,0 +1,7 @@
+﻿  Main.cpp
+Main.obj : error LNK2019: unresolved external symbol __imp_glClear referenced in function main
+Main.obj : error LNK2019: unresolved external symbol __imp_glClearColor referenced in function main
+Main.obj : error LNK2019: unresolved external symbol __imp_glDrawArrays referenced in function main
+Main.obj : error LNK2019: unresolved external symbol __imp_glPolygonMode referenced in function main
+Main.obj : error LNK2019: unresolved external symbol __imp_glViewport referenced in function main
+C:\Users\JC\source\repos\GRAPX\x64\Debug\GRAPX.exe : fatal error LNK1120: 5 unresolved externals

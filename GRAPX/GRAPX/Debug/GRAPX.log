@@ -1,0 +1,8 @@
+﻿  Main.cpp
+C:\Users\JC\Downloads\GRAPX\GRAPX\Main.cpp(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\JC\Downloads\GRAPX\GRAPX\obj_mesh.h(158,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\JC\Downloads\GRAPX\GRAPX\obj_mesh.h(160,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\JC\Downloads\GRAPX\GRAPX\obj_mesh.h(198,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\JC\Downloads\GRAPX\GRAPX\Main.cpp(152,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\JC\Downloads\GRAPX\GRAPX\Main.cpp(327,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  GRAPX.vcxproj -> C:\Users\JC\Downloads\GRAPX\Debug\GRAPX.exe
